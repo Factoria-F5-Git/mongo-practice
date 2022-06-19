@@ -30,6 +30,7 @@ To prepare the test environment:
 mongoimport --db restaurants --collection restaurants --file primer-dataset.json
 ```
 To run the tests:
+
 4. Open the mongo shell (mongo terminal client) with the `mongo` command
 5. Run the queries to solve the exercise
 6. Copy all the queries into the readme.md document.
